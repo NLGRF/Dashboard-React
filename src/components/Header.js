@@ -5,7 +5,7 @@ class Header extends React.Component {
         return (
             <div className="section">
                 <h1><a className="title is-1" href="#">SUT - ReactJS</a></h1>
-                <h2 className="subtitle is-3">CAR with React</h2>
+                <h2 className="subtitle is-3">Repo with React</h2>
             </div>
         )           
     }
